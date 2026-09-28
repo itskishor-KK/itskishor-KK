@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**itskishor-KK/itskishor-KK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kishor Kumar R M 
 
-Here are some ideas to get you started:
+ 2nd Year Information Technology Student
+ Aspiring Full-Stack Developer
+ Interested in Web Development, Software Development & Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+  Currently learning **Full-Stack Development**
+  Interested in building practical and useful applications
+  Improving my **Data Structures & Algorithms** skills
+  Participating in **Hackathons & Technical Competitions**
+  Exploring different technologies and development tools
+  Working towards becoming a strong software developer
